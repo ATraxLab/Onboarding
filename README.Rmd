@@ -9,10 +9,23 @@ Links and first steps for new group members.
 
 (To go here:
 
-1. CITI training
-2. Software links: RStudio, LaTeX, Gephi
-3. Learning resources: Happy Git with R, R tutorial pages
+1. ~~CITI training~~
+2. Software links: ~~RStudio~~, ~~LaTeX~~, Gephi
+3. Learning resources: Happy Git with R, ~~R tutorial pages~~
 4. First assignments)
+
+
+## CITI training
+
+Before doing research on human subjects through the university, you need to do some training on the ethical issues surrounding that type of research. 
+
+1. Go to WSU's Institutional Review Board (IRB) website. It's currently [here](https://www.wright.edu/research/research-compliance/irb-general-information) (they seem to reorg every six months, so submit a pull request if the link is outdated). Click the CITI link and make an account, giving WSU as your institution.  
+2. The IRB website has a list of the required training. As of June 2020, the required modules are the *Social/Behavioral Investigators Basic Course*, *IPS for Researchers*, and *Conflict of Interest*. You may be able to choose these directly, or you may need to answer a questionnaire about the kind of research you'll be doing. 
+3. If you're working on an NSF-supported project, you'll also need to take the *Responsible Conduct for Researchers* course. 
+4. After you complete each module, download PDFs of the completion certificates, and send those to me once they're all finished. 
+
+**Note on the training**: This stuff is not thrilling reading; take it seriously anyway. If you're not sure afterwards about the relevance, talk to me! This is important, but I'll be the first to admit that hours of reading + multiple-choice quizzes are not the ideal way to teach that significance. 
+
 
 
 ## Software setup
