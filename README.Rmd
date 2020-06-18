@@ -39,7 +39,7 @@ We use R, LaTeX, Github, and sometimes other pieces as well. Here's one path to 
 
 ## Learning software
 
-Learn to use R! Some tutorial options:
+Learn to use R! Some tutorial options (see below for more):
 
 * [This tutorial](http://www.cyclismo.org/tutorial/R/) is a good starting place, especially sections 1-7, 13, and 15. Get in the habit of commenting and saving your work as script (.R) files. 
 * [R for Data Science](https://r4ds.had.co.nz/) is a work-through-it-as-you-go book. It will take a while, but you will learn a lot about some modern and very nice tools in R.
@@ -51,3 +51,11 @@ Start using markdown in R to keep notes on your work:
 3. Choose your own adventure: LaTeX or Rmarkdown. Both are useful formats and you'll probably end up learning both eventually. I started with all my knitr reports in LaTeX and these days tend to prefer Rmarkdown, but if you're already comfy with TeX, you might prefer that.
   i) The [Introduction to R Markdown](https://rmarkdown.rstudio.com/articles_intro.html) from RStudio
   ii) A [LaTeX knitr tutorial](https://joshldavis.com/2014/04/12/beginners-tutorial-for-knitr/) (stop at "Running knitr" section and just use RStudio's "compile PDF" button)
+
+
+## Other resources
+
+I haven't tried all of these, but have seen them recommended. 
+
+* [R tutorials from twotorials.com](https://www.twotorials.com) - short and focused
+* [R tutorials from Google developers](https://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP) - somewhat longer
