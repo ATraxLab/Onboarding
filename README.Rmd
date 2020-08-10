@@ -10,7 +10,7 @@ Links and first steps for new group members.
 (To go here:
 
 1. ~~CITI training~~
-2. Software links: ~~RStudio~~, ~~LaTeX~~, Gephi
+2. Software links: ~~RStudio~~, ~~LaTeX~~, ~~Gephi~~
 3. Learning resources: ~~Happy Git with R~~, ~~R tutorial pages~~
 4. First assignments)
 
@@ -36,7 +36,7 @@ We use R, LaTeX, Github, and sometimes other pieces as well. Here's one path to 
 2. Get [LaTeX](https://www.latex-project.org/get/) for your system (Overleaf can work for most purposes in a pinch).
 3. If you don't have Github, don't worry about it yet--the learning git section below has you covered.
 
-
+If you're doing a network analysis project, you may need [Gephi](https://gephi.org/). The flexibility of writing R scripts is worth the extra trouble for most of what we do, but Gephi is a nice way to get started and play around with visualization options (which is, spoiler alert, not R/igraph's best thing). 
 
 
 # Learning software
