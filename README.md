@@ -34,7 +34,9 @@ We use R, LaTeX, Github, and sometimes other pieces as well. Here's one path to 
 
 1. Download and install [Rstudio](https://rstudio.com/products/rstudio/download/) -- note that it has you install R as a first step. 
 2. Get [LaTeX](https://www.latex-project.org/get/) for your system (Overleaf can work for most purposes in a pinch).
-3. If you don't have Github, don't worry about it yet.
+3. If you don't have Github, don't worry about it yet--the learning git section below has you covered.
+
+
 
 
 # Learning software
@@ -57,9 +59,9 @@ Start using markdown in R to keep notes on your work:
 
 ## Learn to use git! 
 
-Not gonna lie, this one is a bit of a journey. The best guide I've found for our purposes is Jenny Bryan's Happy Git with R (https://happygitwithr.com/). 
+Not gonna lie, this one is a bit of a journey. The best guide I've found for our purposes is Jenny Bryan's [Happy Git with R](https://happygitwithr.com/). 
 
-Don't try to wade through it all at once; plan for this to take time, and do it in installments. Start early, since you'll need to keep an updated repo for your source code and lab notebook. 
+Don't try to wade through it all at once; plan for this to take time, and do it in installments. Start early, since you'll need to start keeping an updated repo for your source code and lab notebook. 
 
 
 # Other resources
