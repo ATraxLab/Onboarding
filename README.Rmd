@@ -1,21 +1,21 @@
 ---
+title: "Onboarding"
 output: 
   html_document: 
     keep_md: yes
 ---
 
-# Onboarding
 Links and first steps for new group members. 
 
 (To go here:
 
 1. ~~CITI training~~
 2. Software links: ~~RStudio~~, ~~LaTeX~~, Gephi
-3. Learning resources: Happy Git with R, ~~R tutorial pages~~
+3. Learning resources: ~~Happy Git with R~~, ~~R tutorial pages~~
 4. First assignments)
 
 
-## CITI training
+# CITI training
 
 Before doing research on human subjects through the university, you need to do some training on the ethical issues surrounding that type of research. 
 
@@ -28,7 +28,7 @@ Before doing research on human subjects through the university, you need to do s
 
 
 
-## Software setup
+# Software setup
 
 We use R, LaTeX, Github, and sometimes other pieces as well. Here's one path to go through getting all that.
 
@@ -37,9 +37,11 @@ We use R, LaTeX, Github, and sometimes other pieces as well. Here's one path to 
 3. If you don't have Github, don't worry about it yet.
 
 
-## Learning software
+# Learning software
 
-Learn to use R! Some tutorial options (see below for more):
+## Learn to use R! 
+
+Some tutorial options (see below for more):
 
 * [This tutorial](http://www.cyclismo.org/tutorial/R/) is a good starting place, especially sections 1-7, 13, and 15. Get in the habit of commenting and saving your work as script (.R) files. 
 * [R for Data Science](https://r4ds.had.co.nz/) is a work-through-it-as-you-go book. It will take a while, but you will learn a lot about some modern and very nice tools in R.
@@ -53,7 +55,14 @@ Start using markdown in R to keep notes on your work:
   ii) A [LaTeX knitr tutorial](https://joshldavis.com/2014/04/12/beginners-tutorial-for-knitr/) (stop at "Running knitr" section and just use RStudio's "compile PDF" button)
 
 
-## Other resources
+## Learn to use git! 
+
+Not gonna lie, this one is a bit of a journey. The best guide I've found for our purposes is Jenny Bryan's Happy Git with R (https://happygitwithr.com/). 
+
+Don't try to wade through it all at once; plan for this to take time, and do it in installments. Start early, since you'll need to keep an updated repo for your source code and lab notebook. 
+
+
+# Other resources
 
 I haven't tried all of these, but have seen them recommended. 
 
