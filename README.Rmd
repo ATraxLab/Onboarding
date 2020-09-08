@@ -7,13 +7,6 @@ output:
 
 Links and first steps for new group members. 
 
-(To go here:
-
-1. ~~CITI training~~
-2. Software links: ~~RStudio~~, ~~LaTeX~~, ~~Gephi~~
-3. Learning resources: ~~Happy Git with R~~, ~~R tutorial pages~~
-4. First assignments)
-
 
 # CITI training
 
@@ -62,6 +55,19 @@ Start using markdown in R to keep notes on your work:
 Not gonna lie, this one is a bit of a journey. The best guide I've found for our purposes is Jenny Bryan's [Happy Git with R](https://happygitwithr.com/). 
 
 Don't try to wade through it all at once; plan for this to take time, and do it in installments. Start early, since you'll need to start keeping an updated repo for your source code and lab notebook. 
+
+
+## Learn other things!
+
+The topics/links below are a bit more project-dependent.
+
+### Networks in R with `igraph`
+
+Once you have R/RStudio working, you can do network stuff with the `igraph` package. In recommended order...
+
+* [Getting started](https://igraph.org/r/) gives installation instructions if you don't already have the package.
+* [R igraph manual pages](https://igraph.org/r/doc/aaa-igraph-package.html) gives a very brief rundown of how `igraph` objects are structured. They're a bit more complicated than data frames, so take a look.
+* [Static and dynamic network visualization with R](https://kateto.net/network-visualization) is an awesome and thorough tutorial by Katya Ognyanova. Working up through 4.2 (Network layouts) is a good idea, and 4.3-4.4 may also be useful. 
 
 
 # Other resources
