@@ -57,7 +57,11 @@ Not gonna lie, this one is a bit of a journey. The best guide I've found for our
 Don't try to wade through it all at once; plan for this to take time, and do it in installments. Start early, since you'll need to start keeping an updated repo for your source code and lab notebook. 
 
 
-<<<<<<< HEAD
+## Learn to use `knitr`!
+
+Sooner or later, adding comments to source code isn't enough, and you want to be able to display code and output in a longer report. Enter `knitr`. One good place to get started is Yihui Xie's [minimal examples page](https://yihui.org/knitr/demo/minimal/), which starts with a brief explanation/demo of how it works and then gives starter files. Look at the .Rnw files for LaTeX, and the .Rmd file for Rmarkdown. Once you start doing this, you can do your stats and report writing all from RStudio. 
+
+
 ## Learn other things!
 
 The topics/links below are a bit more project-dependent.
@@ -71,14 +75,6 @@ Once you have R/RStudio working, you can do network stuff with the `igraph` pack
 * [Static and dynamic network visualization with R](https://kateto.net/network-visualization) is an awesome and thorough tutorial by Katya Ognyanova. Working up through 4.2 (Network layouts) is a good idea, and 4.3-4.4 may also be useful. 
 
 
-||||||| merged common ancestors
-=======
-## Learn to use `knitr`!
-
-Sooner or later, adding comments to source code isn't enough, and you want to be able to display code and output in a longer report. Enter `knitr`. One good place to get started is Yihui Xie's [minimal examples page](https://yihui.org/knitr/demo/minimal/), which starts with a brief explanation/demo of how it works and then gives starter files. Look at the .Rnw files for LaTeX, and the .Rmd file for Rmarkdown. Once you start doing this, you can do your stats and report writing all from RStudio. 
-
-
->>>>>>> 629eb6463a49f45551bebe308eda662944a7eacf
 # Other resources
 
 I haven't tried all of these, but have seen them recommended. 
