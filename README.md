@@ -62,6 +62,12 @@ Don't try to wade through it all at once; plan for this to take time, and do it 
 Sooner or later, adding comments to source code isn't enough, and you want to be able to display code and output in a longer report. Enter `knitr`. One good place to get started is Yihui Xie's [minimal examples page](https://yihui.org/knitr/demo/minimal/), which starts with a brief explanation/demo of how it works and then gives starter files. Look at the .Rnw files for LaTeX, and the .Rmd file for Rmarkdown. Once you start doing this, you can do your stats and report writing all from RStudio. 
 
 
+## Reference management
+
+1. [Pick a reference manager](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software) if you don't already have one. Zotero or Mendeley are both popular. 
+2. [JabRef](https://www.jabref.org/) is a frontend to manage BibTex files. I haven't tried to use it as my main reference software, but it's great for cleaning up and maintaining `.bib` files after they're exported from Zoetero. (`File > Append database` is your friend.)
+
+
 ## Learn other things!
 
 The topics/links below are a bit more project-dependent.
