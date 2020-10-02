@@ -34,7 +34,7 @@ If you're doing a network analysis project, you may need [Gephi](https://gephi.o
 
 # Learning software
 
-## Learn to use R! 
+## R
 
 Some tutorial options (see below for more):
 
@@ -50,14 +50,20 @@ Start using markdown in R to keep notes on your work:
   ii) A [LaTeX knitr tutorial](https://joshldavis.com/2014/04/12/beginners-tutorial-for-knitr/) (stop at "Running knitr" section and just use RStudio's "compile PDF" button)
 
 
-## Learn to use git! 
+## LaTeX
+
+1. For Windows, I recommend [TeXstudio](https://texstudio.org/) as a free editing program. (The MiKTeX distribution comes with TeXworks, which is fine but pretty barebones.) For Mac, check the [Getting LaTeX](https://www.latex-project.org/get/) page above.
+2. The [Cambridge engineering page](www-h.eng.cam.ac.uk/help/tpl/textprocessing/) has a lot of LaTeX help links, ranging from from basic tutorials to the ins and outs of tables and bibliographies. 
+
+
+## git and Github 
 
 Not gonna lie, this one is a bit of a journey. The best guide I've found for our purposes is Jenny Bryan's [Happy Git with R](https://happygitwithr.com/). 
 
 Don't try to wade through it all at once; plan for this to take time, and do it in installments. Start early, since you'll need to start keeping an updated repo for your source code and lab notebook. 
 
 
-## Learn to use `knitr`!
+## `knitr`
 
 Sooner or later, adding comments to source code isn't enough, and you want to be able to display code and output in a longer report. Enter `knitr`. One good place to get started is Yihui Xie's [minimal examples page](https://yihui.org/knitr/demo/minimal/), which starts with a brief explanation/demo of how it works and then gives starter files. Look at the .Rnw files for LaTeX, and the .Rmd file for Rmarkdown. Once you start doing this, you can do your stats and report writing all from RStudio. 
 
@@ -65,10 +71,10 @@ Sooner or later, adding comments to source code isn't enough, and you want to be
 ## Reference management
 
 1. [Pick a reference manager](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software) if you don't already have one. Zotero or Mendeley are both popular. 
-2. [JabRef](https://www.jabref.org/) is a frontend to manage BibTex files. I haven't tried to use it as my main reference software, but it's great for cleaning up and maintaining `.bib` files after they're exported from Zoetero. (`File > Append database` is your friend.)
+2. [JabRef](https://www.jabref.org/) is a frontend to manage LaTeX bibliographies. I haven't tried to use it as my main reference software, but it's great for cleaning up and maintaining `.bib` files after they're exported from Zotero or Mendeley. (`File > Append database` is your friend.)
 
 
-## Learn other things!
+## Other software
 
 The topics/links below are a bit more project-dependent.
 
