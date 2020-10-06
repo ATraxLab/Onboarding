@@ -70,8 +70,13 @@ Sooner or later, adding comments to source code isn't enough, and you want to be
 
 ## Reference management
 
-1. [Pick a reference manager](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software) if you don't already have one. Zotero or Mendeley are both popular. 
-2. [JabRef](https://www.jabref.org/) is a frontend to manage LaTeX bibliographies. I haven't tried to use it as my main reference software, but it's great for cleaning up and maintaining `.bib` files after they're exported from Zotero or Mendeley. (`File > Append database` is your friend.)
+* [Pick a reference manager](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software) if you don't already have one. Zotero or Mendeley are both popular. 
+* If you're using LaTeX/BibTeX, here's a starter kit:
+  + [This page](http://www.bibtex.org/Using/) gives a very minimal example of how to get it working. 
+  + [JabRef](https://www.jabref.org/) is a frontend to manage BibTeX files. It's not a replacement for Zotero or Mendeley, but it's great for cleaning up and maintaining `.bib` files after they're exported from your main reference software. (`File > Append database` is your friend.)
+  + [natbib](http://merkel.texture.rocks/Latex/natbib.php) is a very commonly used package which implements citations better than base LaTeX. 
+  + There's a [list of entry types](https://kmh-lanl.hansonhub.com/spie/bibtex-overview.html) and their required/optional fields if you need to fill in missing information on some obscure entry.
+
 
 
 ## Other software
