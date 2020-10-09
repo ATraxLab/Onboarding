@@ -2,6 +2,7 @@
 title: "Onboarding"
 output: 
   html_document: 
+    toc: true
     keep_md: yes
 ---
 
@@ -58,9 +59,10 @@ Start using markdown in R to keep notes on your work:
 
 ## git and Github 
 
-Not gonna lie, this one is a bit of a journey. The best guide I've found for our purposes is Jenny Bryan's [Happy Git with R](https://happygitwithr.com/). 
+Not gonna lie, this one is a bit of a journey. 
 
-Don't try to wade through it all at once; plan for this to take time, and do it in installments. Start early, since you'll need to start keeping an updated repo for your source code and lab notebook. 
+1. The best guide I've found for our purposes is Jenny Bryan's [Happy Git with R](https://happygitwithr.com/). Don't try to wade through it all at once; plan for this to take time, and do it in installments. Start early, since you'll need to start keeping an updated repo for your source code and lab notebook. 
+2. Once you have a Github account, you should apply for the [student developer pack](https://docs.github.com/en/free-pro-team@latest/github/teaching-and-learning-with-github-education/applying-for-a-student-developer-pack), which gives access to various pro features and tools.
 
 
 ## `knitr`
