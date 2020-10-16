@@ -96,7 +96,8 @@ Once you have R/RStudio working, you can do network stuff with the `igraph` pack
 
 # Other resources
 
-I haven't tried all of these, but have seen them recommended. 
+I haven't tried all of these, but they've all been recommended to me. 
 
 * [R tutorials from twotorials.com](https://www.twotorials.com) - short and focused
 * [R tutorials from Google developers](https://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP) - somewhat longer
+* [Git tutorials](https://www.gitkraken.com/resources/learn-git) from GitKraken are a pretty good intro to many of the concepts.
