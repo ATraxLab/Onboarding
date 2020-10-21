@@ -67,7 +67,16 @@ Not gonna lie, this one is a bit of a journey.
 
 ## `knitr`
 
-Sooner or later, adding comments to source code isn't enough, and you want to be able to display code and output in a longer report. Enter `knitr`. One good place to get started is Yihui Xie's [minimal examples page](https://yihui.org/knitr/demo/minimal/), which starts with a brief explanation/demo of how it works and then gives starter files. Look at the .Rnw files for LaTeX, and the .Rmd file for Rmarkdown. Once you start doing this, you can do your stats and report writing all from RStudio. 
+Sooner or later, adding comments to source code isn't enough, and you want to be able to display code and output in a longer report. Enter `knitr`. 
+
+1. Start by reading Yihui Xie's [minimal examples page](https://yihui.org/knitr/demo/minimal/), which has a brief explanation/demo of how it works and then gives starter files. Look at the .Rnw files for LaTeX, or the .Rmd file for Rmarkdown. 
+2. Save a copy of one of those files locally, open in RStudio, and try to compile it. Once you get it working, you can do your stats and report writing all from RStudio. 
+
+Two extra notes if you're using Rnw/LaTeX (skip if you're using Rmarkdown):
+
+1. Under Rstudio's `Tools > Global Options`, in the SWeave tab, set the "Weave Rnw files using:" option to **knitr**.
+2. If you're on Windows and using MiKTeX as your LaTeX distribution, you probably need to let it [install missing packages on-the-fly](https://stackoverflow.com/questions/55763116/r-sweave-rnw-wont-produce-a-pdf-file-exit-code-1).
+
 
 
 ## Reference management

@@ -443,7 +443,16 @@ summary {
 </div>
 <div id="knitr" class="section level2">
 <h2><code>knitr</code></h2>
-<p>Sooner or later, adding comments to source code isn’t enough, and you want to be able to display code and output in a longer report. Enter <code>knitr</code>. One good place to get started is Yihui Xie’s <a href="https://yihui.org/knitr/demo/minimal/">minimal examples page</a>, which starts with a brief explanation/demo of how it works and then gives starter files. Look at the .Rnw files for LaTeX, and the .Rmd file for Rmarkdown. Once you start doing this, you can do your stats and report writing all from RStudio.</p>
+<p>Sooner or later, adding comments to source code isn’t enough, and you want to be able to display code and output in a longer report. Enter <code>knitr</code>.</p>
+<ol style="list-style-type: decimal">
+<li>Start by reading Yihui Xie’s <a href="https://yihui.org/knitr/demo/minimal/">minimal examples page</a>, which has a brief explanation/demo of how it works and then gives starter files. Look at the .Rnw files for LaTeX, or the .Rmd file for Rmarkdown.</li>
+<li>Save a copy of one of those files locally, open in RStudio, and try to compile it. Once you get it working, you can do your stats and report writing all from RStudio.</li>
+</ol>
+<p>Two extra notes if you’re using Rnw/LaTeX (skip if you’re using Rmarkdown):</p>
+<ol style="list-style-type: decimal">
+<li>Under Rstudio’s <code>Tools &gt; Global Options</code>, in the SWeave tab, set the “Weave Rnw files using:” option to <strong>knitr</strong>.</li>
+<li>If you’re on Windows and using MiKTeX as your LaTeX distribution, you probably need to let it <a href="https://stackoverflow.com/questions/55763116/r-sweave-rnw-wont-produce-a-pdf-file-exit-code-1">install missing packages on-the-fly</a>.</li>
+</ol>
 </div>
 <div id="reference-management" class="section level2">
 <h2>Reference management</h2>
