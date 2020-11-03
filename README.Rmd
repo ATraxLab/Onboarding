@@ -54,7 +54,7 @@ Start using markdown in R to keep notes on your work:
 ## LaTeX
 
 1. For Windows, I recommend [TeXstudio](https://texstudio.org/) as a free editing program. (The MiKTeX distribution comes with TeXworks, which is fine but pretty barebones.) For Mac, check the [Getting LaTeX](https://www.latex-project.org/get/) page above.
-2. The [Cambridge engineering page](www-h.eng.cam.ac.uk/help/tpl/textprocessing/) has a lot of LaTeX help links, ranging from from basic tutorials to the ins and outs of tables and bibliographies. 
+2. The [Cambridge engineering page](http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/) has a lot of LaTeX help links, ranging from from basic tutorials to the ins and outs of tables and bibliographies. 
 
 
 ## git and Github 
